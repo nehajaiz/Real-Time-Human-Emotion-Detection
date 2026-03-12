@@ -16,7 +16,7 @@ Contact
 
 ⚙️ Installation
 1. Clone the Repository
-git clone https://github.com/shahabas123/Real-Time-Human-Emotion-Detection.git
+git clone https://github.com/nehajaiz/Real-Time-Human-Emotion-Detection.git
 2. Navigate to the Project Directory
 cd Real-Time-Human-Emotion-Detection
 3. Install Required Dependencies
