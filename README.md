@@ -79,6 +79,14 @@ Keras
 
 Deep Learning
 
+
+📸 Screenshot
+
+
+🌐 Live Demo
+https://github.com/nehajaiz/Real-Time-Human-Emotion-Detection/
+
+
 🤝 Contributing
 
 Contributions are welcome!
@@ -96,8 +104,4 @@ Submit a pull request
 You can also open an issue for bug reports or feature suggestions.
 
 
-📸 Screenshot
 
-
-🌐 Live Demo
-https://github.com/nehajaiz/Real-Time-Human-Emotion-Detection/
