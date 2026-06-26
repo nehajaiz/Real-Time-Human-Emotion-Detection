@@ -104,6 +104,18 @@ Submit a pull request
 You can also open an issue for bug reports or feature suggestions.
 
 
-⭐ If you like this project, give it a star!
+👩‍💻 Author
+Neha Kumari
+
+B.Tech CSE (AI & ML)
+
+Passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Full-Stack Development.
+
+GitHub: https://github.com/nehajaiz
+
+LinkedIn: https://www.linkedin.com/in/neha-kumari38/
+
+⭐ Support
+If you found this project useful, consider giving it a ⭐ on GitHub. It helps others discover the project and motivates further development.
 
 
